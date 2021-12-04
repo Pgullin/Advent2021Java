@@ -29,7 +29,7 @@ public class Main {
          String filename03S = "03Sample.csv";
          String filename03F = "03Full.csv";
          new SolverDay03().solverDayThreeProblemOne(filename03F);
-         new SolverDay03().solverDayThreeProblemTwo(filename03S);
+         new SolverDay03().solverDayThreeProblemTwo(filename03F);
 
          /** Day Four */
          /*
